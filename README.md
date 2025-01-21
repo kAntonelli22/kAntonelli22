@@ -1,5 +1,5 @@
 ## Hi there 👋
-Im Kiernan, an aspiring game and software developer at Ocean County College.
+Im an aspiring game and software developer at Ocean County College.
 
 <!--
 **kAntonelli22/kAntonelli22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
